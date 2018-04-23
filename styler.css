@@ -1,0 +1,54 @@
+.navbar {
+    overflow: hidden;
+    background-color: #333;
+    position: fixed; /* Set the navbar to fixed position */
+    top: 0; /* Position the navbar at the top of the page */
+    width: 100%;
+    border-radius:4px;
+}
+.two{
+background-color:#448aff;}
+/* Links inside the navbar */
+.navbar a {
+    float: left;
+    display: block;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+.navbar a:hover {
+    background: #ffe082;
+    color: black;
+}
+.main {
+    margin-top: 30px; /* Add a top margin to avoid content overlay */
+}
+body
+{
+font-type:Arial;
+background-color:#76ff03;
+}
+#one{background-color:#424242;
+line-height:30px;
+color:white;
+margin:50px 10px 10px 100px;}
+input
+{
+border-radius:4px;
+background-color:#9e9e9e;}
+input[type=submit]
+{
+color:white;
+background-color:black;
+}
+#registration
+{color:white;}
+img {
+    border-radius:14px;
+    display: block;
+    height: auto;
+    margin-left: auto;
+    margin-right: auto;
+    width: 20%;
+}
