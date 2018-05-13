@@ -1,4 +1,4 @@
-﻿#! C:\Users\John.DESKTOP-7EJRVBQ\AppData\Local\Programs\Python\Python35\python.exe
+﻿#! C:\Users\Hp\Programs\Python\Python35\python.exe
 
 
 import cgi
